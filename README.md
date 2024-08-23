@@ -57,24 +57,36 @@ A customer can login to his / her account, can browse any book of his / her own 
    ![image](https://github.com/user-attachments/assets/2e8c815f-9a53-4372-9277-4e5f3fbf0da0)
 
    2. Registration form:
-      ![image](https://github.com/user-attachments/assets/ce3fde58-0255-4c76-bf56-7e00ebc32c79)
+   ![image](https://github.com/user-attachments/assets/ce3fde58-0255-4c76-bf56-7e00ebc32c79)
 
    3. User Login Page:
-      ![image](https://github.com/user-attachments/assets/d39b4b33-5d59-488f-a8d5-ffabc0da2b87)
+   ![image](https://github.com/user-attachments/assets/d39b4b33-5d59-488f-a8d5-ffabc0da2b87)
       
    4. User Profile:
-      ![image](https://github.com/user-attachments/assets/d1b2c227-7a43-4cd5-ba18-43559d74252e)
+   ![image](https://github.com/user-attachments/assets/d1b2c227-7a43-4cd5-ba18-43559d74252e)
 
    5. Product Details:
-      ![image](https://github.com/user-attachments/assets/8771a41a-552a-45bd-8106-64e7cb580e59)
+   ![image](https://github.com/user-attachments/assets/8771a41a-552a-45bd-8106-64e7cb580e59)
 
    6. Cart:
-      ![image](https://github.com/user-attachments/assets/493ab2cf-f70e-4daf-acb6-142508bcce0c)
+   ![image](https://github.com/user-attachments/assets/493ab2cf-f70e-4daf-acb6-142508bcce0c)
 
    7. Wishlist:
-      ![image](https://github.com/user-attachments/assets/b63e2694-b988-4ae9-95a6-181ea04c9309)
+   ![image](https://github.com/user-attachments/assets/b63e2694-b988-4ae9-95a6-181ea04c9309)
 
-   8. 
+   Admin Panel
+   1. Admin Login Page:
+   ![image](https://github.com/user-attachments/assets/f1a3b0cf-8ae1-4e50-a994-fc255ddeb289)
+
+   2. Dashboard:
+   ![image](https://github.com/user-attachments/assets/ed03aa0d-eb2b-408a-a591-df65fc47f7b6)
+
+   3. Product list & Details:
+   ![image](https://github.com/user-attachments/assets/6a051bce-7938-4c6c-b741-73c626c59ebf)
+
+   4. User list:
+   ![image](https://github.com/user-attachments/assets/d4e5383b-1467-4ade-8d2f-f10c981fd730)
+
 ## Contributing
 We welcome contributions to this project! Please follow these steps:
 
