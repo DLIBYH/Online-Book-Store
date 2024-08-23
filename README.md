@@ -30,20 +30,20 @@ Welcome to the Online Bookstore project! This project is a web application that 
   - This project is currently set up for local development only.
 
 ## Usage
-User Functionality
+## User Functionality
 
     Browse Books: Users can explore books by categories, bestsellers, or new arrivals.
     Search Books: Users can search for books by title, author, or ISBN.
     Add to Cart: Users can add books to their shopping cart and manage quantities.
     Checkout: Users can proceed to checkout, provide shipping details, and make payments securely.
 
-Admin Functionality
+## Admin Functionality
 
     Manage Inventory: Admins can add, update, or remove books from the inventory.
     View Orders: Admins can view all customer orders and update their status (e.g., processing, shipped, delivered).
     Customer Support: Admins can respond to customer inquiries and issues.
 
-Contributing
+## Contributing
 
 We welcome contributions to this project! Please follow these steps:
 
@@ -53,3 +53,7 @@ We welcome contributions to this project! Please follow these steps:
     Commit your changes (git commit -m 'Add some feature').
     Push to the branch (git push origin feature-branch).
     Open a Pull Request.
+
+## Contact
+
+If you have any questions, suggestions, or issues, please feel free to open an issue in the GitHub repository
