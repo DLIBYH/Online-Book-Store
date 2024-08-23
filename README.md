@@ -51,6 +51,7 @@ A customer can login to his / her account, can browse any book of his / her own 
 ![image](https://github.com/user-attachments/assets/09eb1f6f-c662-4feb-bd9d-f4a002432478)
 
 ## Visual Reference
+   Userview
    1. Homepage:
    ![image](https://github.com/user-attachments/assets/a509847b-a39d-4ad6-9686-604658caf201)
    ![image](https://github.com/user-attachments/assets/2e8c815f-9a53-4372-9277-4e5f3fbf0da0)
@@ -61,8 +62,19 @@ A customer can login to his / her account, can browse any book of his / her own 
    3. User Login Page:
       ![image](https://github.com/user-attachments/assets/d39b4b33-5d59-488f-a8d5-ffabc0da2b87)
       
-   4. 
+   4. User Profile:
+      ![image](https://github.com/user-attachments/assets/d1b2c227-7a43-4cd5-ba18-43559d74252e)
 
+   5. Product Details:
+      ![image](https://github.com/user-attachments/assets/8771a41a-552a-45bd-8106-64e7cb580e59)
+
+   6. Cart:
+      ![image](https://github.com/user-attachments/assets/493ab2cf-f70e-4daf-acb6-142508bcce0c)
+
+   7. Wishlist:
+      ![image](https://github.com/user-attachments/assets/b63e2694-b988-4ae9-95a6-181ea04c9309)
+
+   8. 
 ## Contributing
 We welcome contributions to this project! Please follow these steps:
 
