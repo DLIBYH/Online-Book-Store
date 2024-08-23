@@ -2,6 +2,10 @@
 
 Welcome to the Online Bookstore project! This project is a web application that allows users to browse, search, and purchase books online. The application provides a user-friendly interface for managing a catalog of books, handling customer orders, and processing payments.
 
+## Description
+This project intends different types of forms with many types of books like story, drama, romance, history, adventures, etc. it can manage buying of books online, customers can choose many types of books categories etc. Here, the user may select desired book and view its price. The user may even search for specific books on the website. Once the user selects a book, he / she then can place an order and the book is provided for the user.
+A customer can login to his / her account, can browse any book of his / her own interest, and can view prices and other details of selected book, place his/her order. User needs to register on the site before checking out so that, he / she can login using same ID and Password next time.
+
 ## Features
 
 - **User Registration and Authentication:** Users can create an account, log in, and manage their profiles.
