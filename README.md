@@ -29,18 +29,11 @@ Welcome to the Online Bookstore project! This project is a web application that 
 - **Deployment:**
   - This project is currently set up for local development only.
 
-## Installation
+## Usage
+User Functionality
 
-### Prerequisites
-
-- Node.js (v14 or later)
-- MongoDB (local instance)
-
-### Setup
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/online-bookstore.git
-   cd online-bookstore
+    Browse Books: Users can explore books by categories, bestsellers, or new arrivals.
+    Search Books: Users can search for books by title, author, or ISBN.
+    Add to Cart: Users can add books to their shopping cart and manage quantities.
+    Checkout: Users can proceed to checkout, provide shipping details, and make payments securely.
 
