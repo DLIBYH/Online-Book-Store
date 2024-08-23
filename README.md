@@ -47,6 +47,8 @@ A customer can login to his / her account, can browse any book of his / her own 
     Manage Inventory: Admins can add, update, or remove books from the inventory.
     View Orders: Admins can view all customer orders and update their status (e.g., processing, shipped, delivered).
     Customer Support: Admins can respond to customer inquiries and issues.
+## User Case Diagram
+![image](https://github.com/user-attachments/assets/09eb1f6f-c662-4feb-bd9d-f4a002432478)
 
 ## Contributing
 We welcome contributions to this project! Please follow these steps:
