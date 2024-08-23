@@ -44,7 +44,6 @@ Welcome to the Online Bookstore project! This project is a web application that 
     Customer Support: Admins can respond to customer inquiries and issues.
 
 ## Contributing
-
 We welcome contributions to this project! Please follow these steps:
 
     Fork the repository.
@@ -55,5 +54,4 @@ We welcome contributions to this project! Please follow these steps:
     Open a Pull Request.
 
 ## Contact
-
-If you have any questions, suggestions, or issues, please feel free to open an issue in the GitHub repository
+If you have any questions, suggestions, or issues, please feel free to open an issue in the GitHub repository.
