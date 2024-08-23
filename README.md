@@ -8,6 +8,7 @@ Welcome to the Online Bookstore project! This project is a web application that 
 - **Book Browsing and Search:** Users can browse books by categories, authors, and genres or search for specific titles.
 - **Book Details:** Detailed information about each book, including the title, author, price, description, and cover image.
 - **Shopping Cart:** Users can add books to their shopping cart and proceed to checkout.
+- **Wishlist** Users can add books to wishlist for later purchase.
 - **Order Management:** Users can view their order history and track the status of their orders.
 - **Admin Panel:** Admins can manage the book inventory, view sales reports, and handle customer inquiries.
 
@@ -15,16 +16,15 @@ Welcome to the Online Bookstore project! This project is a web application that 
 
 - **Frontend:**
   - HTML, CSS, JavaScript
-  - Framework: React.js
+  - jQuery
   - Bootstrap for responsive design
 
 - **Backend:**
-  - Node.js with Express.js
-  - Database: MongoDB
-  - Authentication: JWT (JSON Web Tokens)
+  - PHP
+  - Database: MySQL
 
 - **Payment Integration:**
-  - Payment Gateway API (e.g., Stripe, PayPal)
+  - Payment Gateway API
 
 - **Deployment:**
   - This project is currently set up for local development only.
@@ -33,7 +33,8 @@ Welcome to the Online Bookstore project! This project is a web application that 
 ## User Functionality
 
     Browse Books: Users can explore books by categories, bestsellers, or new arrivals.
-    Search Books: Users can search for books by title, author, or ISBN.
+    Search Books: Users can search for books by title, author, or genres.
+    Add to Wishlist: Users can add selected books to their wishlist for purchasing later.
     Add to Cart: Users can add books to their shopping cart and manage quantities.
     Checkout: Users can proceed to checkout, provide shipping details, and make payments securely.
 
