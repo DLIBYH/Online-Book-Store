@@ -42,3 +42,14 @@ Admin Functionality
     Manage Inventory: Admins can add, update, or remove books from the inventory.
     View Orders: Admins can view all customer orders and update their status (e.g., processing, shipped, delivered).
     Customer Support: Admins can respond to customer inquiries and issues.
+
+Contributing
+
+We welcome contributions to this project! Please follow these steps:
+
+    Fork the repository.
+    Create a new branch (git checkout -b feature-branch).
+    Make your changes.
+    Commit your changes (git commit -m 'Add some feature').
+    Push to the branch (git push origin feature-branch).
+    Open a Pull Request.
