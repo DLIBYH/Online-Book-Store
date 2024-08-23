@@ -1,4 +1,4 @@
-# Online Bookstore
+![image](https://github.com/user-attachments/assets/33724c0d-8e5e-4023-b40f-fad86d07201c)# Online Bookstore
 
 Welcome to the Online Bookstore project! This project is a web application that allows users to browse, search, and purchase books online. The application provides a user-friendly interface for managing a catalog of books, handling customer orders, and processing payments.
 
@@ -54,6 +54,14 @@ A customer can login to his / her account, can browse any book of his / her own 
    1. Homepage:
    ![image](https://github.com/user-attachments/assets/a509847b-a39d-4ad6-9686-604658caf201)
    ![image](https://github.com/user-attachments/assets/2e8c815f-9a53-4372-9277-4e5f3fbf0da0)
+
+   2. Registration form:
+      ![image](https://github.com/user-attachments/assets/ce3fde58-0255-4c76-bf56-7e00ebc32c79)
+
+   3. User Login Page:
+      ![image](https://github.com/user-attachments/assets/d39b4b33-5d59-488f-a8d5-ffabc0da2b87)
+      
+   4. 
 
 ## Contributing
 We welcome contributions to this project! Please follow these steps:
