@@ -37,3 +37,8 @@ User Functionality
     Add to Cart: Users can add books to their shopping cart and manage quantities.
     Checkout: Users can proceed to checkout, provide shipping details, and make payments securely.
 
+Admin Functionality
+
+    Manage Inventory: Admins can add, update, or remove books from the inventory.
+    View Orders: Admins can view all customer orders and update their status (e.g., processing, shipped, delivered).
+    Customer Support: Admins can respond to customer inquiries and issues.
