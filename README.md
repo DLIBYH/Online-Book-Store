@@ -50,6 +50,11 @@ A customer can login to his / her account, can browse any book of his / her own 
 ## User Case Diagram
 ![image](https://github.com/user-attachments/assets/09eb1f6f-c662-4feb-bd9d-f4a002432478)
 
+## Visual Reference
+   1. Homepage:
+   ![image](https://github.com/user-attachments/assets/a509847b-a39d-4ad6-9686-604658caf201)
+   ![image](https://github.com/user-attachments/assets/2e8c815f-9a53-4372-9277-4e5f3fbf0da0)
+
 ## Contributing
 We welcome contributions to this project! Please follow these steps:
 
